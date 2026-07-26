@@ -7,8 +7,6 @@
 
 > ✦ Working on: High-efficiency between complex backend logic and intuitive UX.
 >
-> ✦ The Goal: DevOps Engineering & System Reliability.
->
 > ✦ Philosophy: Efficiency through automation.
 >
 > ✦ Path to DevOps: I’m currently transitioning from building local apps to understanding cloud deployments and infrastructure-as-code.
