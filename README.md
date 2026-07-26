@@ -9,8 +9,6 @@
 >
 > ✦ Philosophy: Efficiency through automation.
 >
-> ✦ Path to DevOps: I’m currently transitioning from building local apps to understanding cloud deployments and infrastructure-as-code.
->
 > ✦ Current languages: Java | HTML | CSS | Python
 
 
