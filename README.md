@@ -3,12 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFAA99&width=435&lines=About+me%3A)](https://git.io/typing-svg)
 > Hi, Zelle here! ⋆.˚ ☾⭒.˚
 >
-> I’m an IT Specialist focusing in Web & App Development with a core focus on efficiency and security.
-
-> ✦ Working on: High-efficiency between complex backend logic and intuitive UX.
->
-> ✦ Philosophy: Efficiency through automation.
->
 > ✦ Current languages: Java | HTML | CSS | Python
 
 
